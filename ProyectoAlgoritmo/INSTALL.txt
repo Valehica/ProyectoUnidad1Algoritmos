@@ -1,0 +1,9 @@
+Para poder acceder el juego debera abrir e archivo "ProyectoU1_Algoritmos.exe" que se encuentra en esta carpeta
+
+De lo contrario debera acceder a su sistema de comandos (con windows + r y escribir cdm si se encuentr en windows)
+- Una vez abierto el sistema de comandos debera ubicarse la carpeta, para esto ocupe la funcion "cd.." para retroceder hasta el usuario
+- Despues debera acceder a la carpeta con el siguiete comando "cd ubicacion\del\archivo"
+  Por ejemplo si se encuentra en descarga la ubicacion del archivo sera:
+  C:\Users\(nombreDeUsuario)\Downloads\ProyectoAlgoritmo
+- Y por ultimo debera ejecutar e archivo, para esto deber escribir "ProyectoU1_Algoritmos.exe" 
+
